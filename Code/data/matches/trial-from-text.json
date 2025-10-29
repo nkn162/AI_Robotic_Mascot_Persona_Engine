@@ -1,0 +1,521 @@
+{
+  "match_id": "trial-from-text",
+  "team": "Manchester United",
+  "teams": [
+    "Manchester City",
+    "Manchester United"
+  ],
+  "rosters": {
+    "Manchester City": [
+      "Donnarumma",
+      "Khusanov",
+      "Dias",
+      "Gvardiol",
+      "O'Reilly",
+      "Rodri",
+      "Bernardo",
+      "Reijnders",
+      "Foden",
+      "Doku",
+      "Haaland",
+      "Trafford",
+      "Ake",
+      "Nico",
+      "Savinho",
+      "Nunes",
+      "Bobb",
+      "Mukasa",
+      "Lewis",
+      "Mfuni"
+    ],
+    "Manchester United": [
+      "Bayindir",
+      "Yoro",
+      "De Ligt",
+      "Shaw",
+      "Mazraoui",
+      "Dorgu",
+      "Ugarte",
+      "Fernandes",
+      "Mbeumo",
+      "Sesko",
+      "Amad",
+      "Heaton",
+      "Lammens",
+      "Maguire",
+      "Heaven",
+      "Casemiro",
+      "Fredricson",
+      "Mainoo",
+      "Zirkzee",
+      "Leon"
+    ]
+  },
+  "timeline": [
+    {
+      "t": "1",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Doku",
+      "note": "[MIN=[MIN=1]] WOW! Attempt missed. Haaland links with Doku and we nearly have the game's opener within [MIN=18] seconds!! Haaland drags marginally wide of the far post as Bayindir thanks his lucky stars."
+    },
+    {
+      "t": "3",
+      "etype": "FOUL_OPP",
+      "player": "Khusanov",
+      "note": "[MIN=[MIN=3]] Foul by Abdukodir Khusanov (Manchester City). Khusanov is rash on Dorgu and the latter goes down. You can feel the intensity already here."
+    },
+    {
+      "t": "3",
+      "etype": "FREEKICK_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=3]] Patrick Dorgu (Manchester United) wins a free kick on the left wing."
+    },
+    {
+      "t": "4",
+      "etype": "SAVE_OPP",
+      "player": "Donnarumma",
+      "note": "[MIN=[MIN=4]] Attempt saved. Benjamin Sesko (Manchester United) left footed shot from outside the box is saved in the bottom left corner by Gianluigi Donnarumma (Manchester City)."
+    },
+    {
+      "t": "9",
+      "etype": "FREEKICK_US",
+      "player": "Mazraoui",
+      "note": "[MIN=[MIN=9]] Noussair Mazraoui (Manchester United) wins a free kick in the defensive half."
+    },
+    {
+      "t": "9",
+      "etype": "FOUL_OPP",
+      "player": "O'Reilly",
+      "note": "[MIN=[MIN=9]] Foul by Nico O'Reilly (Manchester City)."
+    },
+    {
+      "t": "10",
+      "etype": "FOUL_OPP",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=10]] Foul by Bernardo Silva (Manchester City)."
+    },
+    {
+      "t": "10",
+      "etype": "FREEKICK_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=10]] Patrick Dorgu (Manchester United) wins a free kick on the left wing."
+    },
+    {
+      "t": "10",
+      "etype": "FOUL_OPP",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=10]] Foul by Bernardo Silva (Manchester City)."
+    },
+    {
+      "t": "14",
+      "etype": "FOUL_US",
+      "player": "Yoro",
+      "note": "[MIN=[MIN=14]] Foul by Leny Yoro (Manchester United)."
+    },
+    {
+      "t": "14",
+      "etype": "FREEKICK_OPP",
+      "player": "Doku",
+      "note": "[MIN=[MIN=14]] J\u00e9r\u00e9my Doku (Manchester City) wins a free kick in the defensive half."
+    },
+    {
+      "t": "15",
+      "etype": "FOUL_US",
+      "player": "Yoro",
+      "note": "[MIN=[MIN=15]] Foul by Leny Yoro (Manchester United)."
+    },
+    {
+      "t": "15",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "United are really trying to be aggressive and doing well but just some signs now that City might be able to play through them if that pressing drops for an instant."
+    },
+    {
+      "t": "15",
+      "etype": "FREEKICK_OPP",
+      "player": "Doku",
+      "note": "[MIN=[MIN=15]] J\u00e9r\u00e9my Doku (Manchester City) wins a free kick in the defensive half. \"United are really trying to be aggressive and doing well but just some signs now that City might be able to play through them if that pressing drops for an instant.\""
+    },
+    {
+      "t": "17",
+      "etype": "FOUL_US",
+      "player": "Mazraoui",
+      "note": "[MIN=[MIN=17]] Foul by Noussair Mazraoui (Manchester United)."
+    },
+    {
+      "t": "17",
+      "etype": "FREEKICK_OPP",
+      "player": "Doku",
+      "note": "[MIN=[MIN=17]] J\u00e9r\u00e9my Doku (Manchester City) wins a free kick in the defensive half."
+    },
+    {
+      "t": "18",
+      "etype": "OUR_GOAL",
+      "player": "Phil Foden",
+      "note": "[MIN=[MIN=18]] Goal! Manchester City [MIN=1], Manchester United [MIN=0]. Phil Foden (Manchester City) header from the centre of the box to the bottom left corner. Assisted by J\u00e9r\u00e9my Doku. This is all about Jeremy Doku's magic feet. Phil Foden is the beneficiary, rising highest to glance a wonderful header into the far corner. But Doku's close ball control to engineer the chance. Eeesh. No Man Utd player dare dangle a leg for risk of a penalty."
+    },
+    {
+      "t": "24",
+      "etype": "SAVE_OPP",
+      "player": "Reijnders",
+      "note": "[MIN=[MIN=24]] CHANCE! Attempt saved. Tijjani Reijnders (Manchester City) right footed shot from the centre of the box is saved in the bottom left corner by Altay Bayindir (Manchester United). Assisted by J\u00e9r\u00e9my Doku."
+    },
+    {
+      "t": "34",
+      "etype": "FREEKICK_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=34]] Patrick Dorgu (Manchester United) wins a free kick on the left wing."
+    },
+    {
+      "t": "34",
+      "etype": "FOUL_OPP",
+      "player": "Khusanov",
+      "note": "[MIN=[MIN=34]] Foul by Abdukodir Khusanov (Manchester City)."
+    },
+    {
+      "t": "35",
+      "etype": "FOUL_US",
+      "player": "Ugarte",
+      "note": "[MIN=[MIN=35]] Foul by Manuel Ugarte (Manchester United)."
+    },
+    {
+      "t": "35",
+      "etype": "FREEKICK_OPP",
+      "player": "Rodri",
+      "note": "[MIN=[MIN=35]] Rodri (Manchester City) wins a free kick in the defensive half."
+    },
+    {
+      "t": "39",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "O'Reilly",
+      "note": "[MIN=[MIN=39]] Attempt missed. Nico O'Reilly (Manchester City) right footed shot from outside the box is high and wide to the right. Assisted by Tijjani Reijnders. O'Reilly is found on the edge by Reijnders, and it's a neat swivel, only to hammer high and wide. The ball sat up nicely to be hit. City certainly playing the slicker stuff."
+    },
+    {
+      "t": "42",
+      "etype": "FOUL_US",
+      "player": "Mazraoui",
+      "note": "[MIN=[MIN=42]] Foul by Noussair Mazraoui (Manchester United)."
+    },
+    {
+      "t": "42",
+      "etype": "FREEKICK_OPP",
+      "player": "Doku",
+      "note": "[MIN=[MIN=42]] J\u00e9r\u00e9my Doku (Manchester City) wins a free kick in the defensive half. Man Utd are all bark and no bite as it stands. Controlled build up ends in nothing... Their xG value proves the point: [MIN=0].[MIN=3]."
+    },
+    {
+      "t": "45+1",
+      "etype": "ADDED_TIME",
+      "player": null,
+      "note": "[MIN=[MIN=45]] +[MIN=1] Fourth official has announced [MIN=1] minutes of added time."
+    },
+    {
+      "t": "45+1",
+      "etype": "FREEKICK_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=45]] +[MIN=1] Patrick Dorgu (Manchester United) wins a free kick on the right wing."
+    },
+    {
+      "t": "45+1",
+      "etype": "FOUL_OPP",
+      "player": "Gvardiol",
+      "note": "[MIN=[MIN=45]] +[MIN=1] Foul by Josko Gvardiol (Manchester City)."
+    },
+    {
+      "t": "53",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "This is brilliant. The timing of everything is absolutely perfect. Haaland has given his team a position of comfort. It's a brilliant goal."
+    },
+    {
+      "t": "53",
+      "etype": "OUR_GOAL",
+      "player": "Erling Haaland",
+      "note": "[MIN=[MIN=53]] Goal! Manchester City [MIN=2], Manchester United [MIN=0]. Erling Haaland (Manchester City) left footed shot from the left side of the box to the centre of the goal. Assisted by J\u00e9r\u00e9my Doku with a through ball. And just like that, City punish you... Foden's quick feet. Doku's strength. Haaland's movement, power and cute finish. It's all superb. The hosts are two up and the Etihad is in full voice. Pep's celebration is understated but he'll know the value of that goal in a game of fine margins. \"This is brilliant. The timing of everything is absolutely perfect. Haaland has given his team a position of comfort. It's a brilliant goal.\""
+    },
+    {
+      "t": "55",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Doku",
+      "note": "[MIN=[MIN=55]] MISS! Erling Haaland (Manchester City) hits the right post with a left footed shot from the left side of the six yard box. Assisted by J\u00e9r\u00e9my Doku with a through ball. Haaland misses a sitter. How on earth is it not three? It rebounds off the post, and Man Utd survive. Just."
+    },
+    {
+      "t": "55",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=55]] Attempt missed. Bernardo Silva (Manchester City) right footed shot from a difficult angle on the right misses to the left."
+    },
+    {
+      "t": "57",
+      "etype": "FOUL_OPP",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=57]] Foul by Bernardo Silva (Manchester City)."
+    },
+    {
+      "t": "57",
+      "etype": "FREEKICK_US",
+      "player": "Ugarte",
+      "note": "[MIN=[MIN=57]] Manuel Ugarte (Manchester United) wins a free kick in the defensive half."
+    },
+    {
+      "t": "59",
+      "etype": "FOUL_US",
+      "player": "Ugarte",
+      "note": "[MIN=[MIN=59]] Foul by Manuel Ugarte (Manchester United)."
+    },
+    {
+      "t": "59",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "United are rocking, being repeatedly undone. They had been the better team in this second half but the second goal was perfection as City's star players so far - Foden and Doku - combined to assist Haaland who did the rest. The away support had been vocal but like their team they just look as if they are trying to regroup."
+    },
+    {
+      "t": "59",
+      "etype": "FREEKICK_OPP",
+      "player": "Reijnders",
+      "note": "[MIN=[MIN=59]] Tijjani Reijnders (Manchester City) wins a free kick in the defensive half. \"United are rocking, being repeatedly undone. They had been the better team in this second half but the second goal was perfection as City's star players so far - Foden and Doku - combined to assist Haaland who did the rest. The away support had been vocal but like their team they just look as if they are trying to regroup.\""
+    },
+    {
+      "t": "61",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "That is a helluva save! That's why they have signed him."
+    },
+    {
+      "t": "61",
+      "etype": "SAVE_OPP",
+      "player": "Donnarumma",
+      "note": "[MIN=[MIN=61]] Attempt saved. Bryan Mbeumo (Manchester United) left footed shot from the right side of the box is saved in the top left corner by Gianluigi Donnarumma (Manchester City). Assisted by Patrick Dorgu with a cross. Donnarumma denies Mbeumo on the volley. That's his first big test in Man City colours, and he's passed with flying colours. Huge, clawing hand to tip a superb effort round the corner. \"That is a helluva save! That's why they have signed him.\""
+    },
+    {
+      "t": "64",
+      "etype": "SAVE_OPP",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=64]] Attempt saved. Erling Haaland (Manchester City) left footed shot from the centre of the box is saved in the top centre of the goal by Altay Bayindir (Manchester United). Assisted by Bernardo Silva with a cross."
+    },
+    {
+      "t": "68",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "It is a mess from United. It was a poor pass by Shaw and a poor pass by Maguire. But Haaland has been immense in this half."
+    },
+    {
+      "t": "68",
+      "etype": "OUR_GOAL",
+      "player": "Erling Haaland",
+      "note": "[MIN=[MIN=68]] Goal! Manchester City [MIN=3], Manchester United [MIN=0]. Erling Haaland (Manchester City) left footed shot from the centre of the box to the bottom left corner. Assisted by Bernardo Silva with a through ball following a fast break. Man City surely home and dry... And it's a complete shambles from Man Utd's perspective. Maguire passes the ball directly to Bernardo on halfway, and there's acres of space behind him for Haaland to run in to... Bernardo plays a simple pass through the gap and the striker does the rest, slotting beyond Bayindir with ease. \"It is a mess from United. It was a poor pass by Shaw and a poor pass by Maguire. But Haaland has been immense in this half.\""
+    },
+    {
+      "t": "73",
+      "etype": "BLOCK_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=73]] Attempt blocked. Amad Diallo (Manchester United) left footed shot from the right side of the box is blocked. Assisted by Patrick Dorgu with a cross."
+    },
+    {
+      "t": "73",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Ugarte",
+      "note": "[MIN=[MIN=73]] Attempt missed. Manuel Ugarte (Manchester United) right footed shot from outside the box is high and wide to the right. Assisted by Kobbie Mainoo."
+    },
+    {
+      "t": "75",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Reijnders",
+      "note": "[MIN=[MIN=75]] Attempt missed. Tijjani Reijnders (Manchester City) right footed shot from the right side of the box is close, but misses to the left. Assisted by Erling Haaland with a through ball following a fast break."
+    },
+    {
+      "t": "76",
+      "etype": "FOUL_OPP",
+      "player": "Dias",
+      "note": "[MIN=[MIN=76]] Foul by R\u00faben Dias (Manchester City)."
+    },
+    {
+      "t": "76",
+      "etype": "FREEKICK_US",
+      "player": "Fernandes",
+      "note": "[MIN=[MIN=76]] Bruno Fernandes (Manchester United) wins a free kick in the attacking half."
+    },
+    {
+      "t": "82",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Mbeumo",
+      "note": "[MIN=[MIN=82]] Attempt missed. Bryan Mbeumo (Manchester United) left footed shot from outside the box misses to the left. Assisted by Kobbie Mainoo."
+    },
+    {
+      "t": "84",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Mbeumo",
+      "note": "[MIN=[MIN=84]] Attempt missed. Bryan Mbeumo (Manchester United) left footed shot from very close range is close, but misses to the right. Assisted by Amad Diallo."
+    },
+    {
+      "t": "84",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Fernandes",
+      "note": "[MIN=[MIN=84]] Attempt missed. Amad Diallo (Manchester United) right footed shot from a difficult angle on the right misses to the left. Assisted by Bruno Fernandes."
+    },
+    {
+      "t": "85",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Fernandes",
+      "note": "[MIN=[MIN=85]] Attempt missed. Bruno Fernandes (Manchester United) left footed shot from outside the box is close, but misses to the right following a corner.  Fernandes hammers wide, to more cheers from the home crowd. Casemiro was there at the back stick but the pace on the ball evaded him too. The away end exodus continues."
+    },
+    {
+      "t": "85",
+      "etype": "QUOTE",
+      "player": null,
+      "note": "Casemiro was onside for that chance. United have just missed two open goals from less than six yards out in less than a minute. Goodness grief."
+    },
+    {
+      "t": "85",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Fernandes",
+      "note": "[MIN=[MIN=85]] Attempt missed. Casemiro (Manchester United) right footed shot from the right side of the six yard box misses to the right. Assisted by Bruno Fernandes following a corner. \"Casemiro was onside for that chance. United have just missed two open goals from less than six yards out in less than a minute. Goodness grief.\""
+    },
+    {
+      "t": "86",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=86]] Attempt missed. Patrick Dorgu (Manchester United) right footed shot from the centre of the box is high and wide to the right."
+    },
+    {
+      "t": "87",
+      "etype": "FOUL_US",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=87]] Foul by Patrick Dorgu (Manchester United)."
+    },
+    {
+      "t": "87",
+      "etype": "FREEKICK_OPP",
+      "player": "Bernardo",
+      "note": "[MIN=[MIN=87]] Bernardo Silva (Manchester City) wins a free kick on the right wing."
+    },
+    {
+      "t": "88",
+      "etype": "FOUL_OPP",
+      "player": "Dias",
+      "note": "[MIN=[MIN=88]] Foul by R\u00faben Dias (Manchester City)."
+    },
+    {
+      "t": "88",
+      "etype": "FREEKICK_US",
+      "player": "Zirkzee",
+      "note": "[MIN=[MIN=88]] Joshua Zirkzee (Manchester United) wins a free kick in the defensive half."
+    },
+    {
+      "t": "90+1",
+      "etype": "ADDED_TIME",
+      "player": null,
+      "note": "[MIN=[MIN=90]] +[MIN=1] Fourth official has announced [MIN=4] minutes of added time."
+    },
+    {
+      "t": "90+1",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Reijnders",
+      "note": "[MIN=[MIN=90]] +[MIN=1] Attempt missed. Tijjani Reijnders (Manchester City) left footed shot from a difficult angle on the left misses to the right."
+    },
+    {
+      "t": "90+2",
+      "etype": "BLOCK_US",
+      "player": "Mbeumo",
+      "note": "[MIN=[MIN=90]] +[MIN=2] Attempt blocked. Casemiro (Manchester United) right footed shot from outside the box is blocked. Assisted by Amad Diallo. Casemiro hits one from distance and it's really well blocked... by Mbeumo. That about sums it up. Torrid outing for the sorry visitors."
+    },
+    {
+      "t": "90+3",
+      "etype": "OUR_BIG_CHANCE_MISSED",
+      "player": "Dorgu",
+      "note": "[MIN=[MIN=90]] +[MIN=3] Attempt missed. Patrick Dorgu (Manchester United) header from the centre of the box misses to the right. Assisted by Bruno Fernandes."
+    },
+    {
+      "t": "90+4",
+      "etype": "OPP_BIG_CHANCE_MISSED",
+      "player": "Foden",
+      "note": "[MIN=[MIN=90]] +[MIN=4] Attempt missed. Phil Foden (Manchester City) right footed shot from the centre of the box misses to the left. Assisted by Oscar Bobb."
+    },
+    {
+      "t": "90+4",
+      "etype": "SAVE_OPP",
+      "player": "Foden",
+      "note": "[MIN=[MIN=90]] +[MIN=4] Attempt saved. Savinho (Manchester City) left footed shot from the left side of the six yard box is saved in the bottom left corner by Altay Bayindir (Manchester United). Assisted by Phil Foden."
+    }
+  ],
+  "hero_ledger": {
+    "Phil Foden": 2,
+    "Erling Haaland": 4
+  },
+  "blame_ledger": {
+    "Ugarte": 1,
+    "Mbeumo": 2,
+    "Fernandes": 3,
+    "Dorgu": 2
+  },
+  "ref_heat": 1,
+  "pressure_for": 14,
+  "pressure_against": 7,
+  "context": [
+    "Context: Hello! Ok, onto business. A Manchester derby of immense intrigue awaits this afternoon, with both sides of the rivalry already in need of a lift, three games in... Man City have endured their worst start to a season under Pep Guardiola, while the pressure surrounding Ruben Amorim and Man Utd appears never to cease.",
+    "Where Amorim can take solace, perhaps, is that his side enter today's grudge game ahead of Man City in the table for the first time in five years. Guardiola can actually only count one victory over Amorim coached sides in five attempts. Don't suppose that record will matter much today, though. There isn't a manager on the planet Pep cannot outsmart.",
+    "Let's see if today's action plan, in the 197th edition of the derby, can ease some early-season angst...",
+    "Emotional moments before kick-off as Manchester pays tribute. Ricky Hatton was a favourite here and the sadness at the news of his passing is still raw. The applause is loud, proud and long. Manchester will not forget its boxing legend."
+  ],
+  "quotes": [
+    "United are really trying to be aggressive and doing well but just some signs now that City might be able to play through them if that pressing drops for an instant.",
+    "This is brilliant. The timing of everything is absolutely perfect. Haaland has given his team a position of comfort. It's a brilliant goal.",
+    "United are rocking, being repeatedly undone. They had been the better team in this second half but the second goal was perfection as City's star players so far - Foden and Doku - combined to assist Haaland who did the rest. The away support had been vocal but like their team they just look as if they are trying to regroup.",
+    "That is a helluva save! That's why they have signed him.",
+    "It is a mess from United. It was a poor pass by Shaw and a poor pass by Maguire. But Haaland has been immense in this half.",
+    "Casemiro was onside for that chance. United have just missed two open goals from less than six yards out in less than a minute. Goodness grief."
+  ],
+  "stats": {
+    "team_totals": {
+      "us": {
+        "possession": 55.0,
+        "xg": 1.52,
+        "shots": 12.0,
+        "on_target": 2.0,
+        "big_chances": 2.0,
+        "corners": 4.0,
+        "touches_opp_box": 29.0,
+        "blocks": 0.0,
+        "clearances": 10.0
+      },
+      "opp": {
+        "possession": 45.0,
+        "xg": 2.63,
+        "shots": 13.0,
+        "on_target": 6.0,
+        "big_chances": 4.0,
+        "corners": 2.0,
+        "touches_opp_box": 26.0,
+        "blocks": 2.0,
+        "clearances": 33.0
+      }
+    },
+    "by_half": {
+      "1H": {
+        "possession": 40.0,
+        "xg": 0.03,
+        "shots": 1.0,
+        "on_target": 1.0,
+        "big_chances": 0.0,
+        "corners": 1.0,
+        "touches_opp_box": 6.0,
+        "blocks": 0.0,
+        "clearances": 7.0
+      },
+      "2H": {
+        "possession": 70.0,
+        "xg": 1.49,
+        "shots": 11.0,
+        "on_target": 1.0,
+        "big_chances": 2.0,
+        "corners": 3.0,
+        "touches_opp_box": 23.0,
+        "blocks": 0.0,
+        "clearances": 3.0
+      }
+    },
+    "teams": {
+      "us": "Manchester United",
+      "opp": "Manchester City"
+    }
+  }
+}

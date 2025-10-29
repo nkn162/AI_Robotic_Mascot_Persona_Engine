@@ -1,0 +1,10 @@
+openai
+playsound==1.2.2
+spacy
+rapidfuzz
+sentence-transformers
+faiss-cpu
+# Optional (for transcription paths):
+# openai-whisper
+# torch
+# torchaudio

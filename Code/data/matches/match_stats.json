@@ -1,0 +1,54 @@
+{
+  "teams": {
+    "us": "Manchester United",
+    "opp": "Manchester City"
+  },
+  "team_totals": {
+    "us": {
+      "possession": 55.0,
+      "xg": 1.52,
+      "shots": 12.0,
+      "on_target": 2.0,
+      "big_chances": 2.0,
+      "corners": 4.0,
+      "touches_opp_box": 29.0,
+      "blocks": 0.0,
+      "clearances": 10.0
+    },
+    "opp": {
+      "possession": 45.0,
+      "xg": 2.63,
+      "shots": 13.0,
+      "on_target": 6.0,
+      "big_chances": 4.0,
+      "corners": 2.0,
+      "touches_opp_box": 26.0,
+      "blocks": 2.0,
+      "clearances": 33.0
+    }
+  },
+  "by_half": {
+    "1H": {
+      "possession": 40.0,
+      "xg": 0.03,
+      "shots": 1.0,
+      "on_target": 1.0,
+      "big_chances": 0.0,
+      "corners": 1.0,
+      "touches_opp_box": 6.0,
+      "blocks": 0.0,
+      "clearances": 7.0
+    },
+    "2H": {
+      "possession": 70.0,
+      "xg": 1.49,
+      "shots": 11.0,
+      "on_target": 1.0,
+      "big_chances": 2.0,
+      "corners": 3.0,
+      "touches_opp_box": 23.0,
+      "blocks": 0.0,
+      "clearances": 3.0
+    }
+  }
+}
